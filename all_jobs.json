@@ -1,0 +1,1025 @@
+[
+    {
+        "category": {
+            "label": "Engineering Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "engineering-jobs"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Leeds, West Yorkshire",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "West Yorkshire",
+                "Leeds"
+            ]
+        },
+        "id": "5035246392",
+        "longitude": -1.54912,
+        "description": "Senior Electrical Design Engineer Leeds to £52k neg dep exp  generous benefits Our client is part of a group that has been established for almost 200 years and employs more than 5,500 staff globally, specialising in a range of bespoke heavier engineering and materials handling activities for a diverse range of applications. Due to continued success and an ongoing programme of strategic growth, they are now seeking to recruit an experienced Senior Electrical Design Engineer to be based out of th…",
+        "title": "Senior Electrical Design Engineer",
+        "contract_type": "permanent",
+        "salary_is_predicted": "0",
+        "created": "2025-02-03T14:32:54Z",
+        "salary_min": 48000,
+        "salary_max": 52000,
+        "latitude": 53.799599,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5035246392?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "display_name": "Premier Technical Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzNTI0NjM5MiIsInMiOiJPQ1dEdklfcjd4R0l2Z1JGeTNBLW9BIn0.Zuyu1T2J79OwZaxVVmK_1OW29Ax4eHe5TkQbAiH2iyw"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0NTQyOTI2MiIsInMiOiJPQ1dEdklfcjd4R0l2Z1JGeTNBLW9BIn0.IXGEUHkHGHJY4ty10f2rcaN83sWxZgU5IGsvUfkKBJM",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5045429262?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "display_name": "Premier Technical Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "created": "2025-02-11T03:01:50Z",
+        "salary_min": 55000,
+        "salary_max": 62000,
+        "latitude": 52.921902,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "UK",
+                "East Midlands",
+                "Derbyshire",
+                "Derby"
+            ],
+            "display_name": "Derby, Derbyshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "engineering-jobs",
+            "label": "Engineering Jobs"
+        },
+        "id": "5045429262",
+        "longitude": -1.47564,
+        "title": "M&E Manager",
+        "description": "M&E Manager Derby c£55k - £62k neg dep exp  benefits Our established and highly successful niche sector client offers a range of highest quality services that encompass Project Management and Implementation, Consultancy and Software Development to blue chip clients worldwide, and as a result of continued success and an ongoing planned programme of strategic growth, they are now seeking to recruit an experienced and professional M&E Manager to oversee the supply chain operation. To be considered…",
+        "contract_type": "permanent"
+    },
+    {
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136846?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT0NXRHZJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM2ODQ2In0.dqthVJR6OgFDvfhv8y4RqIQ4zcUVbKJm2Wi3wUJJmqc",
+        "category": {
+            "label": "Social work Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "North Yorkshire",
+                "Saltburn-By-The-Sea"
+            ],
+            "display_name": "Saltburn-By-The-Sea, North Yorkshire"
+        },
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childminder (Full Time)",
+        "id": "5005136846",
+        "longitude": -0.978383,
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:04Z",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 54.581501,
+        "salary_max": 40000
+    },
+    {
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138338?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzODMzOCIsInMiOiJPQ1dEdklfcjd4R0l2Z1JGeTNBLW9BIn0.vikGpOJAKvKQ3vRVkJ4_R0qF_HNFUqhCqI9XbaAk8VE",
+        "longitude": -2.16627,
+        "id": "5005138338",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "category": {
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Social work Jobs"
+        },
+        "location": {
+            "display_name": "Wollaston, Stourbridge",
+            "area": [
+                "UK",
+                "West Midlands",
+                "Stourbridge",
+                "Wollaston"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 40000,
+        "latitude": 52.461899,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:12Z"
+    },
+    {
+        "salary_is_predicted": "0",
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:02Z",
+        "salary_max": 40000,
+        "latitude": 51.283298,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "label": "Social work Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs"
+        },
+        "location": {
+            "display_name": "Penenden Heath, Maidstone",
+            "area": [
+                "UK",
+                "South East England",
+                "Kent",
+                "Maidstone",
+                "Penenden Heath"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 0.533333,
+        "id": "5005136507",
+        "title": "Self-Employed Childminder (Full Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNjUwNyIsInMiOiJPQ1dEdklfcjd4R0l2Z1JGeTNBLW9BIn0.n6Y3731IwiIGEUQQj4lkDNATLHQT1LdXilUj6yUaNvA",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136507?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNjU2MSIsInMiOiJPQ1dEdklfcjd4R0l2Z1JGeTNBLW9BIn0.NIGZtynH_QHkORjQip1vMaPyQHhe0udUc_wbJ9YG-xk",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136561?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "full_time",
+        "created": "2025-01-10T11:07:02Z",
+        "salary_min": 40000,
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.8591,
+        "salary_max": 40000,
+        "category": {
+            "label": "Social work Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Blackheath, Colchester",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Colchester",
+                "Blackheath"
+            ]
+        },
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childminder (Full Time)",
+        "longitude": 0.909944,
+        "id": "5005136561"
+    },
+    {
+        "latitude": 52.461899,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 40000,
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:04Z",
+        "salary_is_predicted": "0",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childminder (Full Time)",
+        "longitude": -2.16627,
+        "id": "5005136779",
+        "location": {
+            "display_name": "Wollaston, Stourbridge",
+            "area": [
+                "UK",
+                "West Midlands",
+                "Stourbridge",
+                "Wollaston"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "label": "Social work Jobs",
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT0NXRHZJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM2Nzc5In0.9cu-xjPy-ADo8PlFBxZdbuh7WjqxznUm1fVwVCV0K90",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136779?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "location": {
+            "area": [
+                "UK",
+                "South East England",
+                "Buckinghamshire",
+                "Chalfont St. Giles"
+            ],
+            "display_name": "Chalfont St. Giles, Buckinghamshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "label": "Part time Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "part-time-jobs"
+        },
+        "title": "Self-Employed Childminder (Part Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "longitude": -0.57014,
+        "id": "5005137191",
+        "created": "2025-01-10T11:07:06Z",
+        "salary_min": 20000,
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.632,
+        "salary_max": 20000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137191?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "part_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNzE5MSIsInMiOiJPQ1dEdklfcjd4R0l2Z1JGeTNBLW9BIn0.v0rndOuumCZasqMOr1qT1vKksz085kkAnjxCeDygpOg"
+    },
+    {
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:11Z",
+        "salary_is_predicted": "0",
+        "latitude": 52.9753,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 40000,
+        "location": {
+            "display_name": "Ilkeston, Derbyshire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Derbyshire",
+                "Ilkeston"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs",
+            "label": "Social work Jobs"
+        },
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "longitude": -1.30542,
+        "id": "5005138211",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT0NXRHZJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM4MjExIn0.Cu9qouvoP1xE7vUBgrfWHiwQ0aTOOkFX4HtJy4CuyKg",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138211?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "contract_time": "full_time"
+    },
+    {
+        "longitude": -0.538436,
+        "id": "5005138320",
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Lincolnshire",
+                "Lincoln"
+            ],
+            "display_name": "Lincoln, Lincolnshire"
+        },
+        "category": {
+            "label": "Social work Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs"
+        },
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 53.234901,
+        "salary_is_predicted": "0",
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:12Z",
+        "contract_time": "full_time",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138320?utm_medium=api&utm_source=55daa0f8",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT0NXRHZJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM4MzIwIn0.1EBN557JvwJy1OGgTikzGiZMK3APoO-Td4AMJeqd1PY"
+    },
+    {
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:04Z",
+        "salary_is_predicted": "0",
+        "latitude": 53.126289,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 40000,
+        "location": {
+            "display_name": "Lincolnshire, East Midlands",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Lincolnshire"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Social work Jobs"
+        },
+        "title": "Self-Employed Childminder (Full Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "id": "5005136747",
+        "longitude": -0.277862,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM2NzQ3In0.7RFytW4R_6LyJd0lsp20mEtIsK04TaHtuWhbfuO45uM",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136747?utm_medium=api&utm_source=55daa0f8",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "contract_time": "full_time"
+    },
+    {
+        "salary_is_predicted": "0",
+        "salary_min": 20000,
+        "created": "2025-01-10T11:07:10Z",
+        "salary_max": 20000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.7481,
+        "location": {
+            "area": [
+                "UK",
+                "South East England",
+                "Oxfordshire",
+                "Thame"
+            ],
+            "display_name": "Thame, Oxfordshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "tag": "part-time-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Part time Jobs"
+        },
+        "id": "5005137869",
+        "longitude": -0.976354,
+        "title": "Self-Employed Childminder (Part Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM3ODY5In0.PrIA7SOFm5iTbm_ravU1aHAx9rlUDYw-od3zLo8l8h0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137869?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "part_time"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM2NjE4In0.Qik4X9h0P6J6MffGdZz3rKMKrUXNGcdZyDxeaXau46E",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136618?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:03Z",
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.585999,
+        "category": {
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Social work Jobs"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Rayleigh, Essex",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Rayleigh"
+            ]
+        },
+        "id": "5005136618",
+        "longitude": 0.605291,
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childminder (Full Time)"
+    },
+    {
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.508202,
+        "salary_is_predicted": "0",
+        "created": "2025-01-10T11:07:02Z",
+        "salary_min": 40000,
+        "id": "5005136447",
+        "longitude": -1.53096,
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childminder (Full Time)",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "West Berkshire",
+                "Hungerford",
+                "Lambourn"
+            ],
+            "display_name": "Lambourn, Hungerford"
+        },
+        "category": {
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Social work Jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNjQ0NyIsInMiOiI5bF9nd0lfcjd4R0l2Z1JGeTNBLW9BIn0._F10cV1mFJhu8IroRl-_YD_tv_qFqAR2_v8bsFcnfYI",
+        "contract_time": "full_time",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136447?utm_medium=api&utm_source=55daa0f8"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM5MjQzIn0.V-Kn1dQQjZnE27VQxz-ORnhfFSD_0zv1hWK_HkeOQUM",
+        "contract_time": "part_time",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005139243?utm_medium=api&utm_source=55daa0f8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 53.750099,
+        "salary_max": 20000,
+        "salary_min": 20000,
+        "created": "2025-01-10T11:07:17Z",
+        "salary_is_predicted": "0",
+        "title": "Self-Employed Childcare Provider (Part Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "longitude": -2.48471,
+        "id": "5005139243",
+        "location": {
+            "display_name": "Blackburn, Lancashire",
+            "area": [
+                "UK",
+                "North West England",
+                "Lancashire",
+                "Blackburn"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "part-time-jobs",
+            "label": "Part time Jobs"
+        }
+    },
+    {
+        "salary_is_predicted": "0",
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:13Z",
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 53.206334,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs",
+            "label": "Social work Jobs"
+        },
+        "location": {
+            "area": [
+                "UK",
+                "North West England",
+                "Cheshire"
+            ],
+            "display_name": "Cheshire, North West England",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -2.612653,
+        "id": "5005138475",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM4NDc1In0.4kIxKXM5Q1v1XYLMyVWLM-XVaZFnv4YqB-KAR9rVtrI",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138475?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "full_time"
+    },
+    {
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136987?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNjk4NyIsInMiOiI5bF9nd0lfcjd4R0l2Z1JGeTNBLW9BIn0.G4Vq0-G3ZtQXvCuRKTtsDbkOwD5Bu4bOTlDUEActAF4",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs",
+            "label": "Social work Jobs"
+        },
+        "location": {
+            "area": [
+                "UK",
+                "South West England",
+                "Cornwall"
+            ],
+            "display_name": "Cornwall, South West England",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -4.853327,
+        "id": "5005136987",
+        "title": "Self-Employed Childminder (Full Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "salary_is_predicted": "0",
+        "created": "2025-01-10T11:07:05Z",
+        "salary_min": 40000,
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 50.379522
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM2Njc5In0.B02vcAHsSWYKPDa9qDxnxC9rOWED_uIccLLtPobbU-c",
+        "contract_time": "full_time",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005136679?utm_medium=api&utm_source=55daa0f8",
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.8876,
+        "salary_is_predicted": "0",
+        "salary_min": 40000,
+        "created": "2025-01-10T11:07:03Z",
+        "id": "5005136679",
+        "longitude": -0.523129,
+        "title": "Self-Employed Childminder (Full Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "location": {
+            "display_name": "Dunstable, Bedfordshire",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Bedfordshire",
+                "Dunstable"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "label": "Social work Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs"
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOWxfZ3dJX3I3eEdJdmdSRnkzQS1vQSIsImkiOiI1MDA1MTM4MTM3In0.H0zsNCRibEvYpdVyPjO894XvFmBJxJrsBMjrexN-Nss",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138137?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "created": "2025-01-10T11:07:11Z",
+        "salary_min": 40000,
+        "salary_max": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 50.926542,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "East Sussex",
+                "Hove"
+            ],
+            "display_name": "Hove, East Sussex"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "social-work-jobs",
+            "label": "Social work Jobs"
+        },
+        "id": "5005138137",
+        "longitude": 0.239511,
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…"
+    },
+    {
+        "salary_min": 20000,
+        "created": "2025-01-10T11:07:07Z",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.27,
+        "salary_max": 20000,
+        "category": {
+            "tag": "part-time-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Part time Jobs"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Kent",
+                "Sevenoaks"
+            ],
+            "display_name": "Sevenoaks, Kent"
+        },
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "title": "Self-Employed Childminder (Part Time)",
+        "id": "5005137324",
+        "longitude": 0.19308,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNzMyNCIsInMiOiI5bF9nd0lfcjd4R0l2Z1JGeTNBLW9BIn0.g-cL1QXwQm5aOzR-jsquQGwp3N5sgMJbK79jT5uWR9Y",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137324?utm_medium=api&utm_source=55daa0f8",
+        "contract_time": "part_time"
+    },
+    {
+        "id": "5005138176",
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "salary_max": 40000,
+        "category": {
+            "label": "Social work Jobs",
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+            "display_name": "Alfreton, Derbyshire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Derbyshire",
+                "Alfreton"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 40000,
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzODE3NiIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.LImR3i_ToQguK1v2E06X9C44yWQ5VJUYDP47kLwvsAY",
+        "latitude": 53.0975,
+        "longitude": -1.38404,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138176?utm_medium=api&utm_source=55daa0f8",
+        "created": "2025-01-10T11:07:11Z"
+    },
+    {
+        "id": "5005137365",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Self-Employed Childminder (Part Time)",
+        "contract_time": "part_time",
+        "salary_is_predicted": "0",
+        "salary_min": 20000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Billericay, Essex",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Billericay"
+            ]
+        },
+        "category": {
+            "label": "Part time Jobs",
+            "tag": "part-time-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 20000,
+        "created": "2025-01-10T11:07:07Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137365?utm_medium=api&utm_source=55daa0f8",
+        "longitude": 0.421158,
+        "latitude": 51.6301,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNzM2NSIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.D-ZOoPluqCPHvOsFeE63xohdMAtT7zPR8DnHtxyi3Nw",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…"
+    },
+    {
+        "id": "5005137572",
+        "salary_is_predicted": "0",
+        "title": "Self-Employed Childminder (Part Time)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "contract_time": "part_time",
+        "category": {
+            "tag": "part-time-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Part time Jobs"
+        },
+        "salary_max": 20000,
+        "location": {
+            "display_name": "Barnsley, South Yorkshire",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "South Yorkshire",
+                "Barnsley"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 20000,
+        "latitude": 53.552898,
+        "longitude": -1.48127,
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEVtenhvX3I3eEdLZzZPTF9zaHF0USIsImkiOiI1MDA1MTM3NTcyIn0.JWuSB108nGe5UVx3PBuMv_vWvp8mj2aZF8m1gLWOckw",
+        "created": "2025-01-10T11:07:08Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137572?utm_medium=api&utm_source=55daa0f8"
+    },
+    {
+        "latitude": 52.764301,
+        "longitude": -0.88565,
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEVtenhvX3I3eEdLZzZPTF9zaHF0USIsImkiOiI1MDA1MTM4OTY1In0.7a5dEzc1LGEG7j-dAX9nq9v2cScEbOFPKRlpOF9D6F8",
+        "created": "2025-01-10T11:07:15Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138965?utm_medium=api&utm_source=55daa0f8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "label": "Part time Jobs",
+            "tag": "part-time-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 20000,
+        "location": {
+            "display_name": "Melton Mowbray, Leicestershire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Leicestershire",
+                "Melton Mowbray"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 20000,
+        "salary_is_predicted": "0",
+        "title": "Self-Employed Childcare Provider (Part Time)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "contract_time": "part_time",
+        "id": "5005138965"
+    },
+    {
+        "id": "5005138452",
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "North West England",
+                "Merseyside",
+                "Liverpool"
+            ],
+            "display_name": "Liverpool, Merseyside"
+        },
+        "salary_min": 40000,
+        "category": {
+            "label": "Social work Jobs",
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 40000,
+        "created": "2025-01-10T11:07:13Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138452?utm_medium=api&utm_source=55daa0f8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 53.410801,
+        "longitude": -2.97784,
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEVtenhvX3I3eEdLZzZPTF9zaHF0USIsImkiOiI1MDA1MTM4NDUyIn0.Zvn5WxP4QNc8yREy4Sm1_LsFqy6kpIHanvNLxTuLBKw"
+    },
+    {
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Self-Employed Childminder (Part Time)",
+        "contract_time": "part_time",
+        "id": "5005137273",
+        "longitude": 0.445646,
+        "latitude": 51.327702,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNzI3MyIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.oOt-esI49SrmRd_JKOseCOCwF-cZ7N3Y3CclxzKLdSA",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "created": "2025-01-10T11:07:06Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137273?utm_medium=api&utm_source=55daa0f8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "label": "Part time Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "part-time-jobs"
+        },
+        "salary_max": 20000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Kent",
+                "Snodland"
+            ],
+            "display_name": "Snodland, Kent"
+        },
+        "salary_min": 20000
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138616?utm_medium=api&utm_source=55daa0f8",
+        "created": "2025-01-10T11:07:14Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzODYxNiIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.iq-pZgod0O9XPtCXmIbRoUVYPpSrMgY1udlR2zJ1yy4",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "longitude": -1.3165,
+        "latitude": 51.062901,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Winchester, Hampshire",
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Winchester"
+            ]
+        },
+        "salary_min": 40000,
+        "salary_max": 40000,
+        "category": {
+            "tag": "social-work-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Social work Jobs"
+        },
+        "contract_time": "full_time",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Self-Employed Childcare Provider (Full Time)",
+        "salary_is_predicted": "0",
+        "id": "5005138616"
+    },
+    {
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Self-Employed Childminder (Part Time)",
+        "contract_time": "part_time",
+        "id": "5005137445",
+        "longitude": -1.49237,
+        "latitude": 52.952702,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNzQ0NSIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.kKrmS0coRr-IrxTys1gaKRo5_JRgji1OFb7SSycnJ8I",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "created": "2025-01-10T11:07:07Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137445?utm_medium=api&utm_source=55daa0f8",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "part-time-jobs",
+            "label": "Part time Jobs"
+        },
+        "salary_max": 20000,
+        "salary_min": 20000,
+        "location": {
+            "area": [
+                "UK",
+                "East Midlands",
+                "Derbyshire",
+                "Derby",
+                "Allestree"
+            ],
+            "display_name": "Allestree, Derby",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        }
+    },
+    {
+        "id": "5005138833",
+        "salary_is_predicted": "0",
+        "contract_time": "part_time",
+        "company": {
+            "display_name": "Tiney",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Self-Employed Childcare Provider (Part Time)",
+        "salary_max": 20000,
+        "category": {
+            "label": "Part time Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "part-time-jobs"
+        },
+        "salary_min": 20000,
+        "location": {
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Brentwood"
+            ],
+            "display_name": "Brentwood, Essex",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzODgzMyIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.BB01g6BRVE50giJFwsqAKsI2lxSf3YWi-vRq6m7VzcI",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "longitude": 0.305749,
+        "latitude": 51.621399,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005138833?utm_medium=api&utm_source=55daa0f8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2025-01-10T11:07:15Z"
+    },
+    {
+        "longitude": -1.1157,
+        "latitude": 52.5802,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNTEzNzQ5NCIsInMiOiJYRW16eG9fcjd4R0tnNk9MX3NocXRRIn0.RpTmo7rW-AtyjLnPlqeJbAS8v36-JzHicNxDUQMeQbM",
+        "description": "Become a Childminder with Tiney – Unlock a Rewarding Career Have you considered a career in childminding? Read on to learn how people from all different backgrounds are choosing to become self-employed childminders with Tiney, earning a professional wage and finding a rewarding career working with children. About Tiney: Tiney is transforming the childminding profession by providing exceptional guidance, resources, and expertise to help childminders build and grow their own successful businesses…",
+        "created": "2025-01-10T11:07:08Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/5005137494?utm_medium=api&utm_source=55daa0f8",
+        "category": {
+            "tag": "part-time-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Part time Jobs"
+        },
+        "salary_max": 20000,
+        "location": {
+            "display_name": "Wigston, Leicestershire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Leicestershire",
+                "Wigston"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 20000,
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Tiney"
+        },
+        "title": "Self-Employed Childminder (Part Time)",
+        "contract_time": "part_time",
+        "id": "5005137494"
+    }
+]
