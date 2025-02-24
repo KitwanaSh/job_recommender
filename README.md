@@ -1,8 +1,7 @@
 # AI-Powered Career Recommendation System
 
-![Python Logo](https://en.m.wikipedia.org/wiki/File:Python-logo-notext.svg)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 ![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
-![Anaconda Logo](https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png)
 
 This project implements an **AI-powered career recommendation system** that matches job seekers with relevant job postings based on their skills. The system uses **natural language processing (NLP)** and **cosine similarity** to analyze job descriptions and find the best matches for a user's skill set. It leverages job posting data collected from multiple countries using the **Adzuna Jobs API**.
 
