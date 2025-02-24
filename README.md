@@ -169,7 +169,7 @@ To enhance the system further, consider the following improvements:
 1. Clone the repository:
    ```bash
    git clone https://github.com/KitwanaSh/job_recommender.git
-   cd __job_recommender__
+   cd job_recommender
    ```
 2. Install dependencies:
     ```bash
